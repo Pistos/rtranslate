@@ -1,4 +1,5 @@
-= google-api-transalte-ruby
+= google-api-translate-ruby
+
 A simple, unofficial, ruby client API for using Google Translate.
 
 == Install
@@ -6,6 +7,7 @@ A simple, unofficial, ruby client API for using Google Translate.
 sudo gem install sishen-rtranslate
 
 == Usage
+
 1.
 {{{
 require "rtranslate"
